@@ -1,3 +1,5 @@
+![](project#1.gif)
+
 # APP_NAME_HERE
 
 ## Table of Contents
