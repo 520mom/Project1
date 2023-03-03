@@ -1,4 +1,4 @@
-![](project#1.gif)
+![](https://github.com/520mom/Project1/blob/main/project%231.gif)
 
 # APP_NAME_HERE
 
