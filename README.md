@@ -1,68 +1,69 @@
-![](https://github.com/520mom/Project1/blob/main/project%231.gif)
 
-# APP_NAME_HERE
 
-## Table of Contents
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+# AND101 Project 1 - Hello, Squirrel!
 
-## Overview
+Submitted by: **Cathy A. LI**
 
-### Description
+Time spent: **2.5** hours spent in total
 
-[Description of your app]
+## Summary
 
-### App Evaluation
+**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
 
-[Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+If I had to describe this project in three (3) emojis, they would be: **👩‍💻🖐️🤝**
 
-## Product Spec
+## Application Features
 
-### 1. User Features (Required and Optional)
+<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
-**Required Features**
+The following REQUIRED features are completed:
 
-* [fill in your required user features here]
-* ...
+- [x] Change profile name to your name
+- [x] Change profile bio text to a personal bio about yourself
+- [x] Modify hobby section to include your top three (3) hobbies
 
-**Stretch Features**
+The following STRETCH features are implemented:
 
-* [fill in your optional user features here]
-* ...
+- [x] Re-brand the app by modifying the UI
+- [x] Modify the profile image by uploading a new image drawable
 
-### 2. Chosen APIs
+The following EXTRA features are implemented:
 
-- [list first API endpoint here]
-  - [list associated required story here]
-  - ...
-- [list second API endpoint here]
-  - [list associated required story here]
-  - ...
+- [x] List anything else that you added to improve the app!
 
-### 3. User Interaction
+## Video Demo
 
-**User Story**
+Here's a video / GIF that demos all of the app's implemented features:
 
-- [list first user action here]
-  - [list result of user action here]
-  - ...
-- [list second user action here]
-  - [list result of user action here]
-  - ...
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-## Wireframes
+GIF created with **ScreenToGif**
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif]  for Windows
+![](https://github.com/520mom/Project1/blob/main/project#1.gif) 
+- [peek](https://github.com/phw/peek) for Linux. -->
 
-### [BONUS] Digital Wireframes & Mockups
+## Notes
 
-### [BONUS] Interactive Prototype
+Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+
+I learned a lot from this project! I learned how to add the text and pictures to my app, and how to adjusting the colors and text style ect.
+## License
+
+Copyright **2023** **Cathy A. Li**
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
