@@ -44,7 +44,7 @@ GIF created with **ScreenToGif**
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif]  for Windows
-![](https://github.com/520mom/Project1/blob/main/project#1.gif) 
+![](https://github.com/520mom/Project1/blob/main/project%231.gif) 
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
