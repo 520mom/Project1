@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/520mom/Project1/blob/main/project%231.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/520mom/Project1/blob/main/project01.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
